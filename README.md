@@ -1,2 +1,3 @@
 # WebForm_JsonPowerDB
-Project: Taking Employee Details in a HTML form, and storing those details in JsonPowerDB.
+
+"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
